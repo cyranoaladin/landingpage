@@ -1,0 +1,147 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+
+# Your rule content
+
+- You can @ files here
+- You can use markdown but dont have to
+Dar, [24/05/2025 23:04]
+# 🧠 Money Factory AI – Landing Page Creation Rules (Pre-TGE)
+
+This document defines all guidelines, components, and strategic rules for developing the Money Factory AI pre-TGE landing page. It is based on the project's whitepapers, protocol papers, platform documents, and technical specifications.
+
+## 🌐 General Principles
+- Framework: React + Next.js
+- Styling: Tailwind CSS (integrated)
+- Design: Use gradients and color codes inspired by Solana: #9945FF (purple), #14F195 (green)
+- Tone: Futuristic, empowering, trustworthy
+- Goal: Convert visitors into believers, contributors, and early supporters. Pre-TGE = attention + action.
+
+## 🧭 Core Narrative
+"From Skillchains to Sovereignty" — Activate, Build, Prove, Scale.
+
+Money Factory AI is not just another platform — it's a cognitive infrastructure for activating sovereign entrepreneurs in the Web3 economy. We’re building the Ownership Economy.
+
+## 🎯 CTA Objectives
+- Get the Investor Deck
+- Learn about Zyno, the AI Co-Founder™
+- Join the DAO for Synaptic Governance™
+- Explore the Launchpad for sovereign builders
+- Stake or earn $MFAI
+- Claim Access Passes (Gold, Platinum, Diamond) → never use "NFT"
+- Participate in the Cognitive Seed Round (replacement term for Private Sale)
+- Visit the platform (even during build phase)
+- Explore real learner journeys
+- Download the Whitepaper, Protocol Paper, Litepaper
+
+## 🔑 Strategic Keywords (SEO + UX/UI Highlights)
+- Cognitive Activation Protocol™
+- Zyno: AI Co-Founder™
+- Skillchain Mining™
+- Proof-of-Skill Token™
+- Proof-of-Vision Incubator™
+- Synaptic Governance™
+- Neuro-Dividends™
+- $MFAI Token
+- Learn-to-Earn
+- Web2 ➝ Web3 Transition
+- Gamified Learning
+- AI-Powered Coaching
+- Tokenized Ownership
+
+## 📐 Landing Page Structure
+
+### 1. 🧠 Hero Section (Above the Fold)
+- Tagline: "The Cognitive Activation Protocol™"
+- Subtitle: "From Skillchains to Sovereignty"
+- CTA Buttons:
+  - "Get the Deck – See How You Earn"
+  - "Explore the Protocol"
+  - "Download the Whitepaper"
+  - "Preview the Platform"
+
+### 2. 🔁 The Value Loop™ (Learn → Build → Prove → Activate → Scale)
+- Visual + animation of loop
+- Brief explanation of each step with icons
+- CTA: "See Real Learning Journeys"
+
+### 3. 🤖 Zyno: AI Co-Founder™
+- Role of Zyno with AEPO™ + AECO™
+- Dual mode: Agent + Toolkit
+- Screenshots or mockup of interface
+- CTA: Try Zyno (or Watch Demo)
+
+### 4. 🧬 Protocol Stack & Tools
+- Academy (gamified learning)
+- Certification tokens (avoid "NFT")
+- Launchpad
+- DAO (Synaptic Governance™)
+- Staking & Buyback
+- $MFAI Token Utilities
+- CTA: "Download Protocol Paper" / "See Our Litepaper"
+
+### 5. 🔐 Access Passes (Membership Tokens)
+- Display Gold, Platinum, Diamond
+- Benefits comparison (Revenue share, Access, Airdrops...)
+- Use narrative: "Unlock Elite Privileges" / "Lifetime Access for Pioneers"
+- CTA: "Claim Your Access Pass"
+
+### 6. 📊 Tokenomics & Financial Mechanics
+- Staking: Dynamic APY, Cognitive Lock™
+- Buyback & Burn model
+- Utility & Circularity of $MFAI
+- CTA: "Participate in the Cognitive Seed Round"
+
+### 7. 🌍 Community & DAO
+- Synaptic Governance™
+- Role-based power: Mentors, Builders, Voters
+- Neuro-Dividends™
+
+### 8. 🧭 Why Money Factory AI?
+- Comparison with Web2 platforms
+- Use cases: Africa, MENA, youth, women, freelancers
+- Real stories if available (can be added later)
+
+### 9. 🚀 Roadmap / Timeline
+- Clear steps leading to TGE
+- Phases: Academy ➝ Incubator ➝ DAO ➝ Full Launch
+
+### 10. 📬 Call-to-Action (Sticky Footer or Modal)
+- Email subscription: "Get TGE Updates"
+- Claim Access Pass button
+- Link to join the waitlist / investor access
+- Buttons:
+  - "Download Whitepaper"
+  - "Download Protocol Paper"
+  - "Read Our Litepaper"
+  - "Preview the Platform"
+  - "Explore Learning Journeys"
+
+## 🎨 Design Notes
+- Gradients: Always blend #9945FF ➝ #14F195
+- Shadow for contrast text on dark mode
+- Solana-style motion effects on hover
+- Responsive, mobile-optimized
+- Sticky navbar with section anchors
+
+Dar, [24/05/2025 23:04]
+## 📄 Additional Requirements
+- Add language selector (EN/FR/AR)
+- Include Zyno-3 keyword for SEO
+- GDPR-compliant cookie & privacy notices
+- Social proof & footer links (whitepaper, protocol paper, DAO, Academy)
+
+## 📌 Notes for Devs (Cursor Team)
+- Use existing classes for Solana color gradients
+- Reuse components already used in index.html
+- Focus on speed, responsiveness, clarity
+- All sections must be anchor-linked from the nav
+
+---
+
+> Let’s build the gateway to the Ownership Economy. Money Factory AI is the future of skills, AI, and financial independence.
+
+#MoneyFactoryAI #CognitiveActivation #Web3Ownership #Zyno
